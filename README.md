@@ -2,8 +2,8 @@
 
 ![image](/sample/first-page.png)
 
-# What will be covered in this Repo:
+# Description:
 
-`In this project, we are going to create a beautiful Rock, Paper and Scissor Game using HYML, JavaScript and CSS.`
+`In this project, we are going to create a Rock, Paper, and Scissor Game using HTML, JavaScript, and CSS.`
 
 
