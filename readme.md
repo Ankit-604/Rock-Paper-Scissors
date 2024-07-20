@@ -15,7 +15,7 @@ If the player wins, user gain 1 point. If the computer wins, the computer gets o
 - Paper beats Rock.
 - Rock beats Scissors.
 - Scissors beats Paper.
-- 
+
 ### If user losses-
 
 ![image](/sample/pc-win.png)
